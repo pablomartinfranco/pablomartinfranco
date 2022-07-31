@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Cyber security Research in vmware products**
 
-[//]: # - 🤝 I’m looking for help with [SEO And traffic management for my blog](https://infosec-openmic.blogspot.com/)
+- 🤝 I’m looking for help with [SEO And traffic management for my blog](https://infosec-openmic.blogspot.com/)
 
 - 👨‍💻 All of my projects are available at [github.com/pablomartinfranco](github.com/pablomartinfranco)
 
